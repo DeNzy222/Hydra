@@ -1,0 +1,1 @@
+const ClickTimer = document.getElementById.onclick('click-bth');
